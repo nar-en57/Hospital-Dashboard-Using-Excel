@@ -26,6 +26,18 @@ To get started with the hospital dashboard:
 3. Navigate through the different sheets to explore the dashboard components.
 4. Input your hospital data into the designated cells to see the visualizations update automatically.
 
+## 📌 Dependencies
+
+- Microsoft Excel (2016 or later recommended)
+- Optional: Power BI or Tableau (for enhanced visualization and reporting)
+
+## 🚀 Future Enhancements
+
+- Dynamic year-over-year comparison
+- Integration with live data feeds (e.g., hospital APIs)
+- Power BI version of the dashboard
+- Predictive analytics (e.g., wait time forecasting
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements, bug fixes, or additional features you can provide.
