@@ -6,13 +6,16 @@
 
 This project contains an Excel-based hospital dashboard designed to help hospital administrators and staff visualize and analyze key metrics and data. The dashboard provides insights into various aspects of hospital operations, including patient admissions, bed occupancy, staff allocation, and more.
 
-## Features
+## 📊 Key Features
 
-- Interactive charts and graphs
-- Key performance indicators (KPIs)
-- Data filtering and sorting
-- Customizable templates
-- Easy-to-use interface
+- **Monthly Filter**: Easily switch between months using the sidebar.
+- **Patient Breakdown**:
+  - Age groups (0–79 years)
+  - Gender distribution
+  - Attend status (On-time vs Delay)
+- **Admission Analysis**: Compare admitted vs not admitted percentages.
+- **Department Referrals**: See which departments patients were referred to.
+- **Visual Insights**: Bar charts, pie charts, and scorecards for quick data interpretation.
 
 ## Getting Started
 
