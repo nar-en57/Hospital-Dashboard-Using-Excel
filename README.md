@@ -29,7 +29,6 @@ To get started with the hospital dashboard:
 ## 📌 Dependencies
 
 - Microsoft Excel (2016 or later recommended)
-- Optional: Power BI or Tableau (for enhanced visualization and reporting)
 
 ## 🚀 Future Enhancements
 
