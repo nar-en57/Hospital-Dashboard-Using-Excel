@@ -26,13 +26,6 @@ To get started with the hospital dashboard:
 3. Navigate through the different sheets to explore the dashboard components.
 4. Input your hospital data into the designated cells to see the visualizations update automatically.
 
-## How to Use
-
-- **Patient Admissions:** Track the number of patient admissions over time.
-- **Bed Occupancy:** Monitor bed occupancy rates and availability.
-- **Staff Allocation:** Analyze staff allocation and workload distribution.
-- **Financial Metrics:** Review financial performance and budget utilization.
-
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements, bug fixes, or additional features you can provide.
