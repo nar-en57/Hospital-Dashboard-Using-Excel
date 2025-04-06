@@ -26,10 +26,6 @@ To get started with the hospital dashboard:
 3. Navigate through the different sheets to explore the dashboard components.
 4. Input your hospital data into the designated cells to see the visualizations update automatically.
 
-## 🎥 Preview
-
-Watch the full demo: ![Hospital Dashboard By Naren](https://github.com/nar-en57/Hospital-Dashboard-Using-Excel/blob/main/Hospital%20Dashboard%20Using%20Excel%20By%20Naren.mp4)
-
 ## 📌 Dependencies
 
 - Microsoft Excel (2016 or later recommended)
