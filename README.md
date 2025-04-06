@@ -28,7 +28,7 @@ To get started with the hospital dashboard:
 
 ## 🎥 Preview
 
-Watch the full demo: (https://github.com/nar-en57/Hospital-Dashboard-Using-Excel/blob/main/Hospital%20Dashboard%20Using%20Excel%20By%20Naren.mp4)
+Watch the full demo: ![Hospital Dashboard By Naren](https://github.com/nar-en57/Hospital-Dashboard-Using-Excel/blob/main/Hospital%20Dashboard%20Using%20Excel%20By%20Naren.mp4)
 
 ## 📌 Dependencies
 
