@@ -47,4 +47,4 @@ For any questions or feedback, please reach out to [nar-en57](https://github.com
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+© 2025 **[Naren Jamdar]** – All rights reserved.
